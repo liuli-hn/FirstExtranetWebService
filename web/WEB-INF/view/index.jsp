@@ -8,9 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>外网初始页面</title>
   </head>
   <body>
-  $END$
+    <h1>欢迎访问</h1>
+    <div>
+      <span>欢迎访问到我的电脑服务</span>
+    </div>
   </body>
 </html>
