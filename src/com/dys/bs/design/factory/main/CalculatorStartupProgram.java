@@ -6,6 +6,7 @@ import com.dys.bs.design.factory.interfaceEntity.impl.CalculatorOperationDefault
 
 /**
  * 计算器启动程序
+ * 简单的工厂模式+策略模式
  */
 public class CalculatorStartupProgram {
 
